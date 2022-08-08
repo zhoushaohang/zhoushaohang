@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhoushaohang
-- 🌱 I’m currently learning Vue
+- 🌱 I’m currently learning Vue3
 - 📫 How to reach me zhoushaohang97@163.com
 
 <!---
